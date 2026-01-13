@@ -1,1 +1,0 @@
-# Praktikum-2-Datenbanken-1
